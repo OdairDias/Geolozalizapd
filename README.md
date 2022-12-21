@@ -8,9 +8,33 @@ em seguida cruzamos od dados com as delimitações da ciade de SP com os dados c
 os dados que gostariamos de análisar. 
 por ultimo montamos a vizualização dos dados em um gráfico, fizems varíos estes até chegarmos em um resultado satisfatório.
 
-O resultado fimal contedo a criminalidade na capital de SP durante o mês de agosto, pode ser visto a baixo:
+## Resultados
 
-![image](https://user-images.githubusercontent.com/117185803/208755158-395c2288-518f-4208-9084-17df6a211e83.png)
-![image](https://user-images.githubusercontent.com/117185803/208755607-bf74abf9-72b0-44c1-89c0-e0c4dd19c552.png)
+Com os dados plotados fica intuitivo verifica quais as regiões onde mais ocorrem roubos de veiculos e em quais ruas o fato mais se repetiu durante o mês de outubro 
+
+Aqui temos uma primeira versão do mapa:
+
+![image](https://user-images.githubusercontent.com/117185803/208967939-9533831d-bf36-4f3b-a9a2-860ae1c01ef5.png)
+
+A seguir temos uma segunda versão já com os dados plotados:
+
+![image](https://user-images.githubusercontent.com/117185803/208968409-459e9de4-a992-4476-823f-befbb5a52a97.png)
+
+
+a baixo temos oresultado final contedo os dados de roubo de veículos na capital de SP durante o mês de agosto:
+
+![image](https://user-images.githubusercontent.com/117185803/208968780-d01c9c38-1ca2-4e6e-b7d8-6114d6330096.png)
+
+Aqui podemos ver o grafico interativo em funcionamento
+
+https://user-images.githubusercontent.com/117185803/208970401-387aff7b-bb0b-413c-bf8d-bc99ca8b04fe.mp4
+
+
+
+
+
+
+
+
 
 
