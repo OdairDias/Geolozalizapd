@@ -1,4 +1,4 @@
-# Geolocalação
+# Mapa com os dados de roubo de veículos da cidade de SP
 Este projeto teve como intuito desenvolver os atributos necessários para construir um mapa usando geolocalização. primeiro criamos nossa variável de geolocalização usando como base os dados do Estado de SP disponível no site do IBGE em seguida salvamos apenas a cidade de SP. carregamos os dados de Roubo de Veículos do Estado de SP em seguida realizamos uma limpeza em nosso DataSet, excluindo onde não haviam dados de Longitude e Latitude, dados necessários para criar nosso Geodaframe. em seguida cruzamos os dados com as delimitações da cidade de SP com os dados criados usando Latitude e Longitude com isso deixamos os dados que gostaríamos de analisar. por último montamos a visualização dos dados em um gráfico, fizemos vários estes até chegarmos em um resultado satisfatório.
 
 ## Resultados
